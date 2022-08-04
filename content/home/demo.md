@@ -15,6 +15,7 @@ design:
     gradient_start: "#ffffff"
     gradient_end: "#ffffff"
     text_color_light: true
+    image: cropped-headshot-2.png
   spacing:
     padding:
       - 20px
