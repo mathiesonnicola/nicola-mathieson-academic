@@ -20,6 +20,8 @@ email: nicola.mathieson@anu.edu.au
 superuser: true
 highlight_name: true
 ---
+# Nicola Mathieson
+
 I am a PhD student in International Relations at the Australian National University.
 
 I hold an MPhil. in International Relations from the University of Oxford and a BA with Honours from the Royal Melbourne Institute of Technology.
