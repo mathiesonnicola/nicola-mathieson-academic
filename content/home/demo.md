@@ -31,3 +31,5 @@ I hold an MPhil. in International Relations from the University of Oxford and a 
 I am interested in the dynamics of civil war and legacies of conflict participation. My dissertation research examines the role of foreign fighters in the Soviet-Afghan and Afghan Civil War (1979-1992) and traces these fighters to subsequent armed conflicts. 
 
 My other academic projects include examining the role of family and gendered violence in the trajectories of lone actor terrorism, as well as government use of internet blackouts during unrest.
+
+You can find my CV here.
